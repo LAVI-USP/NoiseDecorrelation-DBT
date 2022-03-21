@@ -22,7 +22,7 @@ If you use the codes, we will be very grateful if you refer to this [paper]():
 
 ## Acknowledgments:
 
-This work was supported by the São Paulo Research Foundation ([FAPESP](http://www.fapesp.br/) grant 2021/12673-6) and by the National Council for Scientific and Technological Development ([CNPq](http://www.cnpq.br/)) and by the \textit{Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ([CAPES](https://www.gov.br/capes/pt-br) - finance code 001)}. We would like to thank the contribution of our lab members and the [Barretos Love Hospital](https://www.hcancerbarretos.com.br) for providing the images of DBT.
+This work was supported by the São Paulo Research Foundation ([FAPESP](http://www.fapesp.br/) grant 2021/12673-6) and by the National Council for Scientific and Technological Development ([CNPq](http://www.cnpq.br/)) and by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ([CAPES](https://www.gov.br/capes/pt-br) - finance code 001). We would like to thank the contribution of our lab members and the [Barretos Love Hospital](https://www.hcancerbarretos.com.br) for providing the images of DBT.
 
 
 ---
